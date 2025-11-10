@@ -2,6 +2,5 @@
 title: Welcome to my blog
 ---
 
-Hey there!
-
+Hey there !
 My name is Jackthin Shin !
